@@ -1,0 +1,9 @@
+torch
+scipy
+numpy
+seaborn
+pandas
+matplotlib
+pyyaml
+pytorch_pretrained_bert
+h5py

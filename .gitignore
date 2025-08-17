@@ -201,3 +201,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+ElmOiw/elmo-train-params.hdf5
+ElmOiw/elmo-train-params.hdf5
+*.hdf5
